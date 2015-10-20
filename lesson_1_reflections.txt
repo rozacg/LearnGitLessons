@@ -1,0 +1,76 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it helped me not comparing every line, but only lines that had changed
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    checking for type mistakes that made the program not to run, for debug
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    when i commit, i know when i finished working on it, and not every char that changed
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    because we have several files in a project that depend on each other
+
+How can you use the commands git log and git diff to view the history of files?
+
+    ???
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    i know i can go back at any time to prev version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    try save some files for blog website
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    yes. go back to working ver. or error, or client need, will be alot easier.
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    pro manual- choose when logical seperation between commits
+    cons- maybe too long until commit, and data will be lost
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+    because there are connection between them, dependancy
+
+How can you use the commands git log and git diff to view the history of files?
+
+    with git log, to see all the available versions and dates, and with diff to find what changed between two versions.
+    log shows the commits into repository.
+
+How might using version control make you more confident to make changes that could break something?
+    i can go to any version back, untul i find the bug
+
+Now that you have your workspace set up, what do you want to try using Git for?
+    nothing ...
+
+
+-------------------
+Should not be doing an octopus 
+ Octopus is a strategy Git uses to combine many different versions of code together. This message can appear if you try to use this strategy in an inappropriate situation.
+
+You are in 'detached HEAD' state 
+ HEAD is what Git calls the commit you are currently on. You can “detach” the HEAD by switching to a previous commit, which we’ll see in the next video. Despite what it sounds like, it’s actually not a bad thing to detach the HEAD. Git just warns you so that you’ll realize you’re doing it.
+
+
+
+
+
+
+
+
+
