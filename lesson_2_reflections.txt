@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	new folder .git created to track changes
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	contains only files to be commited for one logical commit with coments, and files that are ready
+	
