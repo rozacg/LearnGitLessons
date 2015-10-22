@@ -5,4 +5,5 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date 
 with your remote repository?
 
-    maybe im doing changes, nad dont want older version. 
+    maybe im doing changes, and dont want older version. 
+
